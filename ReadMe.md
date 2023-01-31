@@ -1,4 +1,4 @@
-## React + Vite Fresh Project
+## React + Vite clean boilerplate
 
 ```cmd
 
